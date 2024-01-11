@@ -1,0 +1,3 @@
+﻿  Assigment7.cpp
+D:\Course\Assigment 7\Assigment 7\Assigment7.cpp(50,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Assigment 7.vcxproj -> D:\Course\Assigment 7\x64\Debug\Assigment 7.exe
